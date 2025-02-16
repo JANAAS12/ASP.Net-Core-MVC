@@ -1,0 +1,417 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebApplication11.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebApplication11.a4prami76c.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\Img\\Animals and pet lovers_.jpg",
+      "PackagePath": "staticwebassets\\Img\\Animals and pet lovers_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\Img\\AppointmentPhoto.png",
+      "PackagePath": "staticwebassets\\Img\\AppointmentPhoto.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\Img\\BackgroungHome.jpg",
+      "PackagePath": "staticwebassets\\Img\\BackgroungHome.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\Img\\CatProfile.jpg",
+      "PackagePath": "staticwebassets\\Img\\CatProfile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\Img\\Customer1.jpg",
+      "PackagePath": "staticwebassets\\Img\\Customer1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\Img\\Customer3.jpg",
+      "PackagePath": "staticwebassets\\Img\\Customer3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\Img\\Doctor.jpg",
+      "PackagePath": "staticwebassets\\Img\\Doctor.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\Img\\Free Photo _ Veterinarian check-ing puppy's health.jpg",
+      "PackagePath": "staticwebassets\\Img\\Free Photo _ Veterinarian check-ing puppy's health.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\Img\\PawLogin.png",
+      "PackagePath": "staticwebassets\\Img\\PawLogin.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\Img\\PetNetLogo.png",
+      "PackagePath": "staticwebassets\\Img\\PetNetLogo.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\Img\\Veterinary physician with assistant.jpg",
+      "PackagePath": "staticwebassets\\Img\\Veterinary physician with assistant.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\Img\\_Care in Every Gaze_ A Veterinarian's Love for Animals \uD83D\uDC3E\uD83E\uDE7A_.jpg",
+      "PackagePath": "staticwebassets\\Img\\_Care in Every Gaze_ A Veterinarian's Love for Animals \uD83D\uDC3E\uD83E\uDE7A_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\Img\\background.jpg",
+      "PackagePath": "staticwebassets\\Img\\background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\Img\\blog-1 (2).jpg",
+      "PackagePath": "staticwebassets\\Img\\blog-1 (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\Img\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\Img\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\Img\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\Img\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\Img\\blog-4 (2).jpg",
+      "PackagePath": "staticwebassets\\Img\\blog-4 (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\Img\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\Img\\blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\Img\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\Img\\blog-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\Img\\blog-author.jpg",
+      "PackagePath": "staticwebassets\\Img\\blog-author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\Img\\blog-inside-post.jpg",
+      "PackagePath": "staticwebassets\\Img\\blog-inside-post.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\Img\\comments-1.jpg",
+      "PackagePath": "staticwebassets\\Img\\comments-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\Img\\comments-2.jpg",
+      "PackagePath": "staticwebassets\\Img\\comments-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\Img\\comments-3.jpg",
+      "PackagePath": "staticwebassets\\Img\\comments-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\Img\\comments-4.jpg",
+      "PackagePath": "staticwebassets\\Img\\comments-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\Img\\comments-5 copy.jpg",
+      "PackagePath": "staticwebassets\\Img\\comments-5 copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\Img\\comments-5.jpg",
+      "PackagePath": "staticwebassets\\Img\\comments-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\Img\\comments-6.jpg",
+      "PackagePath": "staticwebassets\\Img\\comments-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\Img\\image.png",
+      "PackagePath": "staticwebassets\\Img\\image.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\Img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\Img\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\Img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\Img\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\Img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\Img\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\Img\\veterinary medicine.jpg",
+      "PackagePath": "staticwebassets\\Img\\veterinary medicine.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\css\\Style.css",
+      "PackagePath": "staticwebassets\\css\\Style.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\css\\about.css",
+      "PackagePath": "staticwebassets\\css\\about.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\css\\blog.css",
+      "PackagePath": "staticwebassets\\css\\blog.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\css\\contact.css",
+      "PackagePath": "staticwebassets\\css\\contact.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebApplication11.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebApplication11.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebApplication11.props",
+      "PackagePath": "build\\WebApplication11.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication11.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication11.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebApplication11.props",
+      "PackagePath": "buildTransitive\\WebApplication11.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
