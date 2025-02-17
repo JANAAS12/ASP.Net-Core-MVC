@@ -1,0 +1,17 @@
+﻿.container {
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-left: 50px;
+    gap: 30px;
+}
+h1 {
+    text-align: center;
+    margin-bottom: 100px;
+    margin-top: 70px;
+}
+body {
+    background-color: #eff3f4;
+}

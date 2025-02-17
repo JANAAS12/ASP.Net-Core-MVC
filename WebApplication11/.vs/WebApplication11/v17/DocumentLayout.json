@@ -1,65 +1,65 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\",
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\WebApplication11\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C114DCA-A644-4392-A559-8B8D56BD2DEE}|WebApplication11\\WebApplication11.csproj|c:\\users\\orange\\source\\repos\\webapplication11\\webapplication11\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8C114DCA-A644-4392-A559-8B8D56BD2DEE}|WebApplication11\\WebApplication11.csproj|c:\\users\\orange\\desktop\\mvc\\asp.net-core-mvc\\webapplication11\\webapplication11\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8C114DCA-A644-4392-A559-8B8D56BD2DEE}|WebApplication11\\WebApplication11.csproj|solutionrelative:webapplication11\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C114DCA-A644-4392-A559-8B8D56BD2DEE}|WebApplication11\\WebApplication11.csproj|c:\\users\\orange\\source\\repos\\webapplication11\\webapplication11\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8C114DCA-A644-4392-A559-8B8D56BD2DEE}|WebApplication11\\WebApplication11.csproj|c:\\users\\orange\\desktop\\mvc\\asp.net-core-mvc\\webapplication11\\webapplication11\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8C114DCA-A644-4392-A559-8B8D56BD2DEE}|WebApplication11\\WebApplication11.csproj|solutionrelative:webapplication11\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C114DCA-A644-4392-A559-8B8D56BD2DEE}|WebApplication11\\WebApplication11.csproj|c:\\users\\orange\\source\\repos\\webapplication11\\webapplication11\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8C114DCA-A644-4392-A559-8B8D56BD2DEE}|WebApplication11\\WebApplication11.csproj|c:\\users\\orange\\desktop\\mvc\\asp.net-core-mvc\\webapplication11\\webapplication11\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8C114DCA-A644-4392-A559-8B8D56BD2DEE}|WebApplication11\\WebApplication11.csproj|solutionrelative:webapplication11\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C114DCA-A644-4392-A559-8B8D56BD2DEE}|WebApplication11\\WebApplication11.csproj|c:\\users\\orange\\source\\repos\\webapplication11\\webapplication11\\wwwroot\\css\\blog.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{8C114DCA-A644-4392-A559-8B8D56BD2DEE}|WebApplication11\\WebApplication11.csproj|c:\\users\\orange\\desktop\\mvc\\asp.net-core-mvc\\webapplication11\\webapplication11\\wwwroot\\css\\blog.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{8C114DCA-A644-4392-A559-8B8D56BD2DEE}|WebApplication11\\WebApplication11.csproj|solutionrelative:webapplication11\\wwwroot\\css\\blog.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C114DCA-A644-4392-A559-8B8D56BD2DEE}|WebApplication11\\WebApplication11.csproj|c:\\users\\orange\\source\\repos\\webapplication11\\webapplication11\\views\\aboutus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8C114DCA-A644-4392-A559-8B8D56BD2DEE}|WebApplication11\\WebApplication11.csproj|c:\\users\\orange\\desktop\\mvc\\asp.net-core-mvc\\webapplication11\\webapplication11\\views\\aboutus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8C114DCA-A644-4392-A559-8B8D56BD2DEE}|WebApplication11\\WebApplication11.csproj|solutionrelative:webapplication11\\views\\aboutus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C114DCA-A644-4392-A559-8B8D56BD2DEE}|WebApplication11\\WebApplication11.csproj|c:\\users\\orange\\source\\repos\\webapplication11\\webapplication11\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C114DCA-A644-4392-A559-8B8D56BD2DEE}|WebApplication11\\WebApplication11.csproj|c:\\users\\orange\\desktop\\mvc\\asp.net-core-mvc\\webapplication11\\webapplication11\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C114DCA-A644-4392-A559-8B8D56BD2DEE}|WebApplication11\\WebApplication11.csproj|solutionrelative:webapplication11\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C114DCA-A644-4392-A559-8B8D56BD2DEE}|WebApplication11\\WebApplication11.csproj|c:\\users\\orange\\source\\repos\\webapplication11\\webapplication11\\views\\contactus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8C114DCA-A644-4392-A559-8B8D56BD2DEE}|WebApplication11\\WebApplication11.csproj|c:\\users\\orange\\desktop\\mvc\\asp.net-core-mvc\\webapplication11\\webapplication11\\views\\contactus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8C114DCA-A644-4392-A559-8B8D56BD2DEE}|WebApplication11\\WebApplication11.csproj|solutionrelative:webapplication11\\views\\contactus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C114DCA-A644-4392-A559-8B8D56BD2DEE}|WebApplication11\\WebApplication11.csproj|c:\\users\\orange\\source\\repos\\webapplication11\\webapplication11\\controllers\\contactuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C114DCA-A644-4392-A559-8B8D56BD2DEE}|WebApplication11\\WebApplication11.csproj|c:\\users\\orange\\desktop\\mvc\\asp.net-core-mvc\\webapplication11\\webapplication11\\controllers\\contactuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C114DCA-A644-4392-A559-8B8D56BD2DEE}|WebApplication11\\WebApplication11.csproj|solutionrelative:webapplication11\\controllers\\contactuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C114DCA-A644-4392-A559-8B8D56BD2DEE}|WebApplication11\\WebApplication11.csproj|c:\\users\\orange\\source\\repos\\webapplication11\\webapplication11\\wwwroot\\css\\contact.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{8C114DCA-A644-4392-A559-8B8D56BD2DEE}|WebApplication11\\WebApplication11.csproj|c:\\users\\orange\\desktop\\mvc\\asp.net-core-mvc\\webapplication11\\webapplication11\\wwwroot\\css\\contact.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{8C114DCA-A644-4392-A559-8B8D56BD2DEE}|WebApplication11\\WebApplication11.csproj|solutionrelative:webapplication11\\wwwroot\\css\\contact.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C114DCA-A644-4392-A559-8B8D56BD2DEE}|WebApplication11\\WebApplication11.csproj|c:\\users\\orange\\source\\repos\\webapplication11\\webapplication11\\controllers\\aboutuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C114DCA-A644-4392-A559-8B8D56BD2DEE}|WebApplication11\\WebApplication11.csproj|c:\\users\\orange\\desktop\\mvc\\asp.net-core-mvc\\webapplication11\\webapplication11\\controllers\\aboutuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C114DCA-A644-4392-A559-8B8D56BD2DEE}|WebApplication11\\WebApplication11.csproj|solutionrelative:webapplication11\\controllers\\aboutuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C114DCA-A644-4392-A559-8B8D56BD2DEE}|WebApplication11\\WebApplication11.csproj|c:\\users\\orange\\source\\repos\\webapplication11\\webapplication11\\wwwroot\\css\\about.css||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C114DCA-A644-4392-A559-8B8D56BD2DEE}|WebApplication11\\WebApplication11.csproj|c:\\users\\orange\\desktop\\mvc\\asp.net-core-mvc\\webapplication11\\webapplication11\\wwwroot\\css\\about.css||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C114DCA-A644-4392-A559-8B8D56BD2DEE}|WebApplication11\\WebApplication11.csproj|solutionrelative:webapplication11\\wwwroot\\css\\about.css||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C114DCA-A644-4392-A559-8B8D56BD2DEE}|WebApplication11\\WebApplication11.csproj|c:\\users\\orange\\source\\repos\\webapplication11\\webapplication11\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{8C114DCA-A644-4392-A559-8B8D56BD2DEE}|WebApplication11\\WebApplication11.csproj|c:\\users\\orange\\desktop\\mvc\\asp.net-core-mvc\\webapplication11\\webapplication11\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{8C114DCA-A644-4392-A559-8B8D56BD2DEE}|WebApplication11\\WebApplication11.csproj|solutionrelative:webapplication11\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C114DCA-A644-4392-A559-8B8D56BD2DEE}|WebApplication11\\WebApplication11.csproj|c:\\users\\orange\\source\\repos\\webapplication11\\webapplication11\\wwwroot\\css\\style.css||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C114DCA-A644-4392-A559-8B8D56BD2DEE}|WebApplication11\\WebApplication11.csproj|c:\\users\\orange\\desktop\\mvc\\asp.net-core-mvc\\webapplication11\\webapplication11\\wwwroot\\css\\style.css||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C114DCA-A644-4392-A559-8B8D56BD2DEE}|WebApplication11\\WebApplication11.csproj|solutionrelative:webapplication11\\wwwroot\\css\\style.css||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C114DCA-A644-4392-A559-8B8D56BD2DEE}|WebApplication11\\WebApplication11.csproj|c:\\users\\orange\\source\\repos\\webapplication11\\webapplication11\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{8C114DCA-A644-4392-A559-8B8D56BD2DEE}|WebApplication11\\WebApplication11.csproj|c:\\users\\orange\\desktop\\mvc\\asp.net-core-mvc\\webapplication11\\webapplication11\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{8C114DCA-A644-4392-A559-8B8D56BD2DEE}|WebApplication11\\WebApplication11.csproj|solutionrelative:webapplication11\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C114DCA-A644-4392-A559-8B8D56BD2DEE}|WebApplication11\\WebApplication11.csproj|c:\\users\\orange\\source\\repos\\webapplication11\\webapplication11\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{8C114DCA-A644-4392-A559-8B8D56BD2DEE}|WebApplication11\\WebApplication11.csproj|c:\\users\\orange\\desktop\\mvc\\asp.net-core-mvc\\webapplication11\\webapplication11\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{8C114DCA-A644-4392-A559-8B8D56BD2DEE}|WebApplication11\\WebApplication11.csproj|solutionrelative:webapplication11\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
@@ -80,115 +80,107 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "blog.css",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\css\\blog.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\WebApplication11\\WebApplication11\\wwwroot\\css\\blog.css",
               "RelativeDocumentMoniker": "WebApplication11\\wwwroot\\css\\blog.css",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\css\\blog.css",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\WebApplication11\\WebApplication11\\wwwroot\\css\\blog.css",
               "RelativeToolTip": "WebApplication11\\wwwroot\\css\\blog.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4BAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-16T23:18:47.107Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T23:18:47.107Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\Views\\Blog\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\WebApplication11\\WebApplication11\\Views\\Blog\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplication11\\Views\\Blog\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\WebApplication11\\WebApplication11\\Views\\Blog\\Index.cshtml",
               "RelativeToolTip": "WebApplication11\\Views\\Blog\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-16T23:14:28.623Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T23:14:28.623Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "BlogController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\Controllers\\BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\WebApplication11\\WebApplication11\\Controllers\\BlogController.cs",
               "RelativeDocumentMoniker": "WebApplication11\\Controllers\\BlogController.cs",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\WebApplication11\\WebApplication11\\Controllers\\BlogController.cs",
               "RelativeToolTip": "WebApplication11\\Controllers\\BlogController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T23:13:54.31Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T23:13:54.31Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "contact.css",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\css\\contact.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\WebApplication11\\WebApplication11\\wwwroot\\css\\contact.css",
               "RelativeDocumentMoniker": "WebApplication11\\wwwroot\\css\\contact.css",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\css\\contact.css",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\WebApplication11\\WebApplication11\\wwwroot\\css\\contact.css",
               "RelativeToolTip": "WebApplication11\\wwwroot\\css\\contact.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGABAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-16T23:07:49.1Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T23:07:49.1Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\Views\\ContactUs\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\WebApplication11\\WebApplication11\\Views\\ContactUs\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplication11\\Views\\ContactUs\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\Views\\ContactUs\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\WebApplication11\\WebApplication11\\Views\\ContactUs\\Index.cshtml",
               "RelativeToolTip": "WebApplication11\\Views\\ContactUs\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-16T23:05:18.563Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T23:05:18.563Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "ContactUsController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\Controllers\\ContactUsController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\WebApplication11\\WebApplication11\\Controllers\\ContactUsController.cs",
               "RelativeDocumentMoniker": "WebApplication11\\Controllers\\ContactUsController.cs",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\Controllers\\ContactUsController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\WebApplication11\\WebApplication11\\Controllers\\ContactUsController.cs",
               "RelativeToolTip": "WebApplication11\\Controllers\\ContactUsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T23:04:46.892Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T23:04:46.892Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\Views\\AboutUs\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\WebApplication11\\WebApplication11\\Views\\AboutUs\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplication11\\Views\\AboutUs\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\Views\\AboutUs\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\WebApplication11\\WebApplication11\\Views\\AboutUs\\Index.cshtml",
               "RelativeToolTip": "WebApplication11\\Views\\AboutUs\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-16T21:37:20.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T21:37:20.719Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\WebApplication11\\WebApplication11\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplication11\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\WebApplication11\\WebApplication11\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "WebApplication11\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-16T09:41:47.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T09:41:47.037Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\WebApplication11\\WebApplication11\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebApplication11\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\WebApplication11\\WebApplication11\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "WebApplication11\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-16T09:33:14.697Z",
               "EditorCaption": ""
@@ -197,48 +189,45 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "AboutUsController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\Controllers\\AboutUsController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\WebApplication11\\WebApplication11\\Controllers\\AboutUsController.cs",
               "RelativeDocumentMoniker": "WebApplication11\\Controllers\\AboutUsController.cs",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\Controllers\\AboutUsController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\WebApplication11\\WebApplication11\\Controllers\\AboutUsController.cs",
               "RelativeToolTip": "WebApplication11\\Controllers\\AboutUsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T21:34:14.363Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T21:34:14.363Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "about.css",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\css\\about.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\WebApplication11\\WebApplication11\\wwwroot\\css\\about.css",
               "RelativeDocumentMoniker": "WebApplication11\\wwwroot\\css\\about.css",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\css\\about.css",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\WebApplication11\\WebApplication11\\wwwroot\\css\\about.css",
               "RelativeToolTip": "WebApplication11\\wwwroot\\css\\about.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAOgBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-16T22:59:20.88Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T22:59:20.88Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Style.css",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\css\\Style.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\WebApplication11\\WebApplication11\\wwwroot\\css\\Style.css",
               "RelativeDocumentMoniker": "WebApplication11\\wwwroot\\css\\Style.css",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\css\\Style.css",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\WebApplication11\\WebApplication11\\wwwroot\\css\\Style.css",
               "RelativeToolTip": "WebApplication11\\wwwroot\\css\\Style.css",
               "ViewState": "AgIAAEACAAAAAAAAAAAUwMkCAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-16T16:48:43.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T16:48:43.717Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Style.css",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\css\\Style.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\WebApplication11\\WebApplication11\\wwwroot\\css\\Style.css",
               "RelativeDocumentMoniker": "WebApplication11\\wwwroot\\css\\Style.css",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\css\\Style.css",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\WebApplication11\\WebApplication11\\wwwroot\\css\\Style.css",
               "RelativeToolTip": "WebApplication11\\wwwroot\\css\\Style.css",
               "ViewState": "AgIAALoAAAAAAAAAAAAAAOkCAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -248,9 +237,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\Views\\Shared\\_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\WebApplication11\\WebApplication11\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeDocumentMoniker": "WebApplication11\\Views\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\WebApplication11\\WebApplication11\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeToolTip": "WebApplication11\\Views\\Shared\\_Layout.cshtml.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -260,9 +249,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\js\\site.js",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\WebApplication11\\WebApplication11\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "WebApplication11\\wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\WebApplication11\\WebApplication11\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\WebApplication11\\WebApplication11\\wwwroot\\js\\site.js",
               "RelativeToolTip": "WebApplication11\\wwwroot\\js\\site.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",

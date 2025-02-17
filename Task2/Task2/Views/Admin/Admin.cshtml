@@ -1,0 +1,29 @@
+﻿@{
+    Layout = "_Layout - Copy";
+    string[] name = { "Abdullah", "Sura", "Salah" };
+    string[] age = { "25", "30", "35" };
+    string[] email = { "Abdullah@gmail.com", "Sura@gmail.com", "Salah@gmail.com" };
+}
+
+<h4>Users List</h4>
+
+<table class="table ">
+    <thead>
+        <tr style="background-color:black;color:white;">
+            <th>Username</th>
+            <th>Age</th>
+            <th>Email</th>
+        </tr>
+    </thead>
+    <tbody >
+        @for (int i = 0; i < 3; i++)
+        {
+            <tr >
+                <td >@name[i]</td>
+                <td>@age[i]</td>
+                <td>@email[i]</td>
+            </tr>
+        }
+    </tbody>
+</table>
+

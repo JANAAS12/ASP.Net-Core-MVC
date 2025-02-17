@@ -1,0 +1,33 @@
+﻿@section Styles {
+	<link rel="stylesheet" href="~/css/User.css" />
+}
+
+@{
+	string[] title = { "Appartmint with a Amazing Park View", "Bouble Delux Room - Double Bed", "Luxury Apartment - Ground Floor"};
+	string[] price = { "45.00$", "35.00$", " 40.00$" };
+	string[] img = { "Img/room1.png", "Img/room2.png", "Img/room3.png" };
+
+
+	}
+
+<h1>Extraordenary rooms with elegant , <br /> yet a rustic atmosphere </h1>
+<div class="container">
+@for(int i=0;i<3;i++){
+	
+	<div class="card" style="width: 18rem;">
+		<img src="@img[i]" class="card-img-top" alt="...">
+		<div class="card-body">
+			<h5 class="card-title">@title[i]</h5>
+			<h5 class="card-text" style="color:red">@price[i]</h5>
+			<h6 class="card-text" style="text-decoration:underline ">VIEW</h6>
+		</div>
+	</div>
+	
+}
+</div>
+
+<p style="margin-top:20px;">Images from <span style="text-decoration:underline">Freepik</span></p>
+
+
+
+
