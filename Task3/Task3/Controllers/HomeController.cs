@@ -16,7 +16,7 @@ namespace Task3.Controllers
         public IActionResult Index()
         {
             string name = HttpContext.Session.GetString("Name");
-           ViewData["name"] = name;
+           TempData["name"] = name;
 
 
 
