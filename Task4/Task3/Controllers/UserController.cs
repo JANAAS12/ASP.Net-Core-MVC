@@ -54,6 +54,23 @@ namespace Task3.Controllers
 
 
         }
+
+        public IActionResult Logout()
+        {
+
+
+         
+            foreach (var cookie in Request.Cookies.Keys)
+            {
+                Response.Cookies.Delete(cookie);
+            }
+            return RedirectToAction("Index", "Home");
+
+            
+        }
+
+
+
         public IActionResult Regester()
         {
             return View();

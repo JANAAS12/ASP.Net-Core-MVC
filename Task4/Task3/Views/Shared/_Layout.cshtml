@@ -20,14 +20,12 @@
                 </button>
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
-                        </li>
+                       
 
                         @if (Context.Request.Cookies["userInfo"] == null && Context.Session.GetString("email") == null)
                         {
                             <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="" asp-controller="User" asp-action="Sign_up">Sing Up</a>
+                                <a class="nav-link text-dark" asp-area="" asp-controller="User" asp-action="Regester">Sing Up</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link text-dark" asp-area="" asp-controller="User" asp-action="Login">Login</a>
@@ -35,23 +33,23 @@
                         }
                         else
                         {
-                            if (Context.Request.Cookies["userInfo"] == "admin@gmail.com" || Context.Session.GetString("email") == "admin@gmail.com")
-                            {
+                           
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                            </li>
                                 <li class="nav-item">
-                                    <a class="nav-link text-dark" asp-area="" asp-controller="Admin" asp-action="Dashboard">Admin</a>
+                                    <a class="nav-link text-dark" asp-area="" asp-controller="Admin" asp-action="Admin">Admin</a>
                                 </li>
-                            }
-                            else
-                            {
+                            
                                 <li class="nav-item">
                                     <a class="nav-link text-dark" asp-area="" asp-controller="User" asp-action="Profile">Profile</a>
                                 </li>
-                            }
-
+                           
                             <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Logout">Logout</a>
+                                <a class="nav-link text-dark" asp-area="" asp-controller="User" asp-action="Logout">Logout</a>
                             </li>
                         }
+                        
                     </ul>
                 </div>
             </div>
