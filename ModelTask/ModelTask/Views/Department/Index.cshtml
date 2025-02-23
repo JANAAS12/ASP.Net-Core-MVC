@@ -1,0 +1,40 @@
+﻿@model List<ModelTask.Models.Department>
+
+@{
+    ViewData["Title"] = "Dept List";
+}
+
+<h2 class="text-center mt-4">Department List</h2>
+
+<div class="container mt-4">
+    <table class="table table-striped table-bordered">
+        <thead class="table-dark">
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Location</th>
+                <th>YeareOfEstablishment</th>
+                <th>NumberOfEmployees</th>
+                @* <th>Actions</th> *@
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var dept in Model)
+            {
+                <tr>
+                    <td>@dept.Id</td>
+                    <td>@dept.Name</td>
+                    <td>@dept.Location</td>
+                    <td>@dept.YeareOfEstablishment</td>
+                    <td>@dept.NumberOfEmployees</td>
+                    @* <td> *@
+                    @*     <a href="~/Users/Edit/@user.Id" class="btn btn-primary btn-sm">Edit</a> *@
+                    @*     <a href="~/Users/Delete/@user.Id" class="btn btn-danger btn-sm">Delete</a> *@
+                    @* </td> *@
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <a href="~/Department/Create" class="btn btn-success">Add New Department</a>
+</div>

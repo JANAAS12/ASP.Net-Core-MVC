@@ -1,0 +1,30 @@
+﻿@model ModelTask.Models.Department
+@{
+    ViewData["Title"] = "Add New Dept";
+}
+
+<h2>Add New Department</h2>
+
+<form asp-action="Create" asp-controller="Department" method="post">
+    <div>
+        <label>ID:</label>
+        <input type="text" asp-for="Id" required />
+    </div>
+    <div>
+        <label>Name:</label>
+        <input type="text" asp-for="Name" required />
+    </div>
+    <div>
+        <label>Location:</label>
+        <input type="text" asp-for="Location" required />
+    </div>
+    <div>
+        <label>YearOfEstablishment:</label>
+        <input type="text" asp-for="YeareOfEstablishment" required />
+    </div>
+    <div>
+        <label>NumberOfEmployees:</label>
+        <input type="text" asp-for="NumberOfEmployees" required />
+    </div>
+    <button type="submit">Add Department</button>
+</form>
