@@ -1,0 +1,17 @@
+﻿@model ModelTask.Models.Product
+
+<h2>User Details</h2>
+
+
+    <div class="card" style="width: 18rem; align-items:center">
+        <img src="@Model.Image" class="card-img-top" alt="Product Image" style="height: 200px; object-fit: cover;">
+        <div class="card-body">
+            <h5 class="card-title">@Model.Name</h5>
+            <p class="card-text">@Model.Description</p>
+            <h5 class="card-title">@Model.Price</h5>
+           
+        </div>
+    </div>
+
+<a class="btn btn-primary" href="~/Product/Index">Back to List</a>
+

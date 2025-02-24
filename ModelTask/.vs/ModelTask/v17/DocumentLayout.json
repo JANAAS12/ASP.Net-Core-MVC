@@ -1,49 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Orange\\source\\repos\\ModelTask\\",
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\ModelTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0EE3746F-6218-48C2-8DB8-94BD0540775A}|ModelTask\\ModelTask.csproj|c:\\users\\orange\\source\\repos\\modeltask\\modeltask\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0EE3746F-6218-48C2-8DB8-94BD0540775A}|ModelTask\\ModelTask.csproj|c:\\users\\orange\\desktop\\mvc\\asp.net-core-mvc\\modeltask\\modeltask\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0EE3746F-6218-48C2-8DB8-94BD0540775A}|ModelTask\\ModelTask.csproj|solutionrelative:modeltask\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EE3746F-6218-48C2-8DB8-94BD0540775A}|ModelTask\\ModelTask.csproj|c:\\users\\orange\\source\\repos\\modeltask\\modeltask\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0EE3746F-6218-48C2-8DB8-94BD0540775A}|ModelTask\\ModelTask.csproj|c:\\users\\orange\\desktop\\mvc\\asp.net-core-mvc\\modeltask\\modeltask\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0EE3746F-6218-48C2-8DB8-94BD0540775A}|ModelTask\\ModelTask.csproj|solutionrelative:modeltask\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EE3746F-6218-48C2-8DB8-94BD0540775A}|ModelTask\\ModelTask.csproj|c:\\users\\orange\\source\\repos\\modeltask\\modeltask\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0EE3746F-6218-48C2-8DB8-94BD0540775A}|ModelTask\\ModelTask.csproj|c:\\users\\orange\\desktop\\mvc\\asp.net-core-mvc\\modeltask\\modeltask\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0EE3746F-6218-48C2-8DB8-94BD0540775A}|ModelTask\\ModelTask.csproj|solutionrelative:modeltask\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EE3746F-6218-48C2-8DB8-94BD0540775A}|ModelTask\\ModelTask.csproj|c:\\users\\orange\\source\\repos\\modeltask\\modeltask\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0EE3746F-6218-48C2-8DB8-94BD0540775A}|ModelTask\\ModelTask.csproj|c:\\users\\orange\\desktop\\mvc\\asp.net-core-mvc\\modeltask\\modeltask\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0EE3746F-6218-48C2-8DB8-94BD0540775A}|ModelTask\\ModelTask.csproj|solutionrelative:modeltask\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EE3746F-6218-48C2-8DB8-94BD0540775A}|ModelTask\\ModelTask.csproj|c:\\users\\orange\\source\\repos\\modeltask\\modeltask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0EE3746F-6218-48C2-8DB8-94BD0540775A}|ModelTask\\ModelTask.csproj|c:\\users\\orange\\desktop\\mvc\\asp.net-core-mvc\\modeltask\\modeltask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0EE3746F-6218-48C2-8DB8-94BD0540775A}|ModelTask\\ModelTask.csproj|solutionrelative:modeltask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EE3746F-6218-48C2-8DB8-94BD0540775A}|ModelTask\\ModelTask.csproj|c:\\users\\orange\\source\\repos\\modeltask\\modeltask\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0EE3746F-6218-48C2-8DB8-94BD0540775A}|ModelTask\\ModelTask.csproj|c:\\users\\orange\\desktop\\mvc\\asp.net-core-mvc\\modeltask\\modeltask\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0EE3746F-6218-48C2-8DB8-94BD0540775A}|ModelTask\\ModelTask.csproj|solutionrelative:modeltask\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EE3746F-6218-48C2-8DB8-94BD0540775A}|ModelTask\\ModelTask.csproj|c:\\users\\orange\\source\\repos\\modeltask\\modeltask\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0EE3746F-6218-48C2-8DB8-94BD0540775A}|ModelTask\\ModelTask.csproj|c:\\users\\orange\\desktop\\mvc\\asp.net-core-mvc\\modeltask\\modeltask\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0EE3746F-6218-48C2-8DB8-94BD0540775A}|ModelTask\\ModelTask.csproj|solutionrelative:modeltask\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EE3746F-6218-48C2-8DB8-94BD0540775A}|ModelTask\\ModelTask.csproj|c:\\users\\orange\\source\\repos\\modeltask\\modeltask\\models\\orangecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0EE3746F-6218-48C2-8DB8-94BD0540775A}|ModelTask\\ModelTask.csproj|c:\\users\\orange\\desktop\\mvc\\asp.net-core-mvc\\modeltask\\modeltask\\models\\orangecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0EE3746F-6218-48C2-8DB8-94BD0540775A}|ModelTask\\ModelTask.csproj|solutionrelative:modeltask\\models\\orangecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EE3746F-6218-48C2-8DB8-94BD0540775A}|ModelTask\\ModelTask.csproj|c:\\users\\orange\\source\\repos\\modeltask\\modeltask\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0EE3746F-6218-48C2-8DB8-94BD0540775A}|ModelTask\\ModelTask.csproj|c:\\users\\orange\\desktop\\mvc\\asp.net-core-mvc\\modeltask\\modeltask\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0EE3746F-6218-48C2-8DB8-94BD0540775A}|ModelTask\\ModelTask.csproj|solutionrelative:modeltask\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EE3746F-6218-48C2-8DB8-94BD0540775A}|ModelTask\\ModelTask.csproj|c:\\users\\orange\\source\\repos\\modeltask\\modeltask\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0EE3746F-6218-48C2-8DB8-94BD0540775A}|ModelTask\\ModelTask.csproj|c:\\users\\orange\\desktop\\mvc\\asp.net-core-mvc\\modeltask\\modeltask\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0EE3746F-6218-48C2-8DB8-94BD0540775A}|ModelTask\\ModelTask.csproj|solutionrelative:modeltask\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EE3746F-6218-48C2-8DB8-94BD0540775A}|ModelTask\\ModelTask.csproj|c:\\users\\orange\\source\\repos\\modeltask\\modeltask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{0EE3746F-6218-48C2-8DB8-94BD0540775A}|ModelTask\\ModelTask.csproj|c:\\users\\orange\\desktop\\mvc\\asp.net-core-mvc\\modeltask\\modeltask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0EE3746F-6218-48C2-8DB8-94BD0540775A}|ModelTask\\ModelTask.csproj|solutionrelative:modeltask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -64,35 +64,33 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\ModelTask\\ModelTask\\Views\\Department\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\ModelTask\\ModelTask\\Views\\Department\\Create.cshtml",
               "RelativeDocumentMoniker": "ModelTask\\Views\\Department\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\ModelTask\\ModelTask\\Views\\Department\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\ModelTask\\ModelTask\\Views\\Department\\Create.cshtml",
               "RelativeToolTip": "ModelTask\\Views\\Department\\Create.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-23T17:19:12.524Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T17:19:12.524Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\ModelTask\\ModelTask\\Views\\Department\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\ModelTask\\ModelTask\\Views\\Department\\Index.cshtml",
               "RelativeDocumentMoniker": "ModelTask\\Views\\Department\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\ModelTask\\ModelTask\\Views\\Department\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\ModelTask\\ModelTask\\Views\\Department\\Index.cshtml",
               "RelativeToolTip": "ModelTask\\Views\\Department\\Index.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-23T17:18:54.643Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T17:18:54.643Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "DepartmentController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\ModelTask\\ModelTask\\Controllers\\DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\ModelTask\\ModelTask\\Controllers\\DepartmentController.cs",
               "RelativeDocumentMoniker": "ModelTask\\Controllers\\DepartmentController.cs",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\ModelTask\\ModelTask\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\ModelTask\\ModelTask\\Controllers\\DepartmentController.cs",
               "RelativeToolTip": "ModelTask\\Controllers\\DepartmentController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -103,100 +101,93 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "OrangeContext.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\ModelTask\\ModelTask\\Models\\OrangeContext.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\ModelTask\\ModelTask\\Models\\OrangeContext.cs",
               "RelativeDocumentMoniker": "ModelTask\\Models\\OrangeContext.cs",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\ModelTask\\ModelTask\\Models\\OrangeContext.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\ModelTask\\ModelTask\\Models\\OrangeContext.cs",
               "RelativeToolTip": "ModelTask\\Models\\OrangeContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T17:03:38.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T17:03:38.826Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\ModelTask\\ModelTask\\Models\\User.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\ModelTask\\ModelTask\\Models\\User.cs",
               "RelativeDocumentMoniker": "ModelTask\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\ModelTask\\ModelTask\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\ModelTask\\ModelTask\\Models\\User.cs",
               "RelativeToolTip": "ModelTask\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T10:34:16.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T10:34:16.815Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "MyDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\ModelTask\\ModelTask\\Models\\MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\ModelTask\\ModelTask\\Models\\MyDbContext.cs",
               "RelativeDocumentMoniker": "ModelTask\\Models\\MyDbContext.cs",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\ModelTask\\ModelTask\\Models\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\ModelTask\\ModelTask\\Models\\MyDbContext.cs",
               "RelativeToolTip": "ModelTask\\Models\\MyDbContext.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T07:26:44.369Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T07:26:44.369Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\ModelTask\\ModelTask\\Views\\Users\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\ModelTask\\ModelTask\\Views\\Users\\Index.cshtml",
               "RelativeDocumentMoniker": "ModelTask\\Views\\Users\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\ModelTask\\ModelTask\\Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\ModelTask\\ModelTask\\Views\\Users\\Index.cshtml",
               "RelativeToolTip": "ModelTask\\Views\\Users\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-23T09:24:09.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T09:24:09.706Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\ModelTask\\ModelTask\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\ModelTask\\ModelTask\\Program.cs",
               "RelativeDocumentMoniker": "ModelTask\\Program.cs",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\ModelTask\\ModelTask\\Program.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\ModelTask\\ModelTask\\Program.cs",
               "RelativeToolTip": "ModelTask\\Program.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T07:27:09.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T07:27:09.826Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\ModelTask\\ModelTask\\Controllers\\UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\ModelTask\\ModelTask\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "ModelTask\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\ModelTask\\ModelTask\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\ModelTask\\ModelTask\\Controllers\\UsersController.cs",
               "RelativeToolTip": "ModelTask\\Controllers\\UsersController.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAzwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T08:32:39.471Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T08:32:39.471Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\ModelTask\\ModelTask\\Views\\Users\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\ModelTask\\ModelTask\\Views\\Users\\Create.cshtml",
               "RelativeDocumentMoniker": "ModelTask\\Views\\Users\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\ModelTask\\ModelTask\\Views\\Users\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\ModelTask\\ModelTask\\Views\\Users\\Create.cshtml",
               "RelativeToolTip": "ModelTask\\Views\\Users\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-23T08:35:24.355Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T08:35:24.355Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\ModelTask\\ModelTask\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\ModelTask\\ModelTask\\appsettings.json",
               "RelativeDocumentMoniker": "ModelTask\\appsettings.json",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\ModelTask\\ModelTask\\appsettings.json",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\ModelTask\\ModelTask\\appsettings.json",
               "RelativeToolTip": "ModelTask\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
