@@ -1,0 +1,40 @@
+﻿@model IEnumerable<e_commerceTask.Models.User>
+
+@{
+    Layout = "_Layout - Copy";
+}
+
+<h2 class="text-center mt-4">Users List</h2>
+
+<div class="container mt-4">
+    <table class="table table-striped table-bordered">
+        <thead class="table-dark">
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var user in Model)
+            {
+                <tr>
+                    <td>@user.Id</td>
+                    <td>@user.Name</td>
+                    <td>@user.Email</td>
+                    <td>
+                        <a class="btn btn-warning" asp-action="Update" asp-controller="Admins" asp-route-id="@user.Id">Edit</a>
+                        <a class="btn btn-info" asp-action="Details" asp-controller="Admins" asp-route-id="@user.Id">View Details</a>
+                        <form asp-action="Delete" asp-controller="Admins" method="post" onsubmit="return confirm('Are you sure you want to delete this user?');">
+                            <input type="hidden" name="id" value="@user.Id" />
+                            <button type="submit" class="btn btn-danger">Delete</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <a href="~/Admins/Create" class="btn btn-success">Add New User</a>
+</div>

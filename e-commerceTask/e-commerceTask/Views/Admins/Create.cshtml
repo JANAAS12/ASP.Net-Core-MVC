@@ -1,0 +1,23 @@
+﻿@model e_commerceTask.Models.User
+
+
+@{
+    Layout = "_Layout - Copy";
+    ViewData["Title"] = "Add New User";
+}
+
+<h2>Add New User</h2>
+
+<form asp-action="Create" asp-controller="Admins" method="post">
+    <div>
+        <label>Name:</label>
+        <input type="text" asp-for="Name" required />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div>
+        <label>Email:</label>
+        <input type="email" asp-for="Email" required />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+    <button type="submit">Add User</button>
+</form>

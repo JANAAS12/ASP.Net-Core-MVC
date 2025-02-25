@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\Task3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D7E0039C-9C51-4533-8489-5F939CF254BF}|Task3\\Task3.csproj|c:\\users\\orange\\desktop\\mvc\\asp.net-core-mvc\\task3\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E0039C-9C51-4533-8489-5F939CF254BF}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D7E0039C-9C51-4533-8489-5F939CF254BF}|Task3\\Task3.csproj|c:\\users\\orange\\desktop\\mvc\\asp.net-core-mvc\\task3\\task3\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7E0039C-9C51-4533-8489-5F939CF254BF}|Task3\\Task3.csproj|solutionrelative:task3\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7E0039C-9C51-4533-8489-5F939CF254BF}|Task3\\Task3.csproj|c:\\users\\orange\\desktop\\mvc\\asp.net-core-mvc\\task3\\task3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7E0039C-9C51-4533-8489-5F939CF254BF}|Task3\\Task3.csproj|solutionrelative:task3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7E0039C-9C51-4533-8489-5F939CF254BF}|Task3\\Task3.csproj|c:\\users\\orange\\desktop\\mvc\\asp.net-core-mvc\\task3\\task3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D7E0039C-9C51-4533-8489-5F939CF254BF}|Task3\\Task3.csproj|solutionrelative:task3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7E0039C-9C51-4533-8489-5F939CF254BF}|Task3\\Task3.csproj|c:\\users\\orange\\desktop\\mvc\\asp.net-core-mvc\\task3\\task3\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D7E0039C-9C51-4533-8489-5F939CF254BF}|Task3\\Task3.csproj|solutionrelative:task3\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7E0039C-9C51-4533-8489-5F939CF254BF}|Task3\\Task3.csproj|c:\\users\\orange\\desktop\\mvc\\asp.net-core-mvc\\task3\\task3\\views\\user\\regester.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D7E0039C-9C51-4533-8489-5F939CF254BF}|Task3\\Task3.csproj|solutionrelative:task3\\views\\user\\regester.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D7E0039C-9C51-4533-8489-5F939CF254BF}|Task3\\Task3.csproj|c:\\users\\orange\\desktop\\mvc\\asp.net-core-mvc\\task3\\task3\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D7E0039C-9C51-4533-8489-5F939CF254BF}|Task3\\Task3.csproj|solutionrelative:task3\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7E0039C-9C51-4533-8489-5F939CF254BF}|Task3\\Task3.csproj|c:\\users\\orange\\desktop\\mvc\\asp.net-core-mvc\\task3\\task3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D7E0039C-9C51-4533-8489-5F939CF254BF}|Task3\\Task3.csproj|solutionrelative:task3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D7E0039C-9C51-4533-8489-5F939CF254BF}|Task3\\Task3.csproj|c:\\users\\orange\\desktop\\mvc\\asp.net-core-mvc\\task3\\task3\\views\\user\\regester.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7E0039C-9C51-4533-8489-5F939CF254BF}|Task3\\Task3.csproj|solutionrelative:task3\\views\\user\\regester.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7E0039C-9C51-4533-8489-5F939CF254BF}|Task3\\Task3.csproj|c:\\users\\orange\\desktop\\mvc\\asp.net-core-mvc\\task3\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7E0039C-9C51-4533-8489-5F939CF254BF}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D7E0039C-9C51-4533-8489-5F939CF254BF}|Task3\\Task3.csproj|c:\\users\\orange\\desktop\\mvc\\asp.net-core-mvc\\task3\\task3\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7E0039C-9C51-4533-8489-5F939CF254BF}|Task3\\Task3.csproj|solutionrelative:task3\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E0039C-9C51-4533-8489-5F939CF254BF}|Task3\\Task3.csproj|c:\\users\\orange\\desktop\\mvc\\asp.net-core-mvc\\task3\\task3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7E0039C-9C51-4533-8489-5F939CF254BF}|Task3\\Task3.csproj|solutionrelative:task3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E0039C-9C51-4533-8489-5F939CF254BF}|Task3\\Task3.csproj|c:\\users\\orange\\desktop\\mvc\\asp.net-core-mvc\\task3\\task3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E0039C-9C51-4533-8489-5F939CF254BF}|Task3\\Task3.csproj|solutionrelative:task3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E0039C-9C51-4533-8489-5F939CF254BF}|Task3\\Task3.csproj|c:\\users\\orange\\desktop\\mvc\\asp.net-core-mvc\\task3\\task3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7E0039C-9C51-4533-8489-5F939CF254BF}|Task3\\Task3.csproj|solutionrelative:task3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,19 +50,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\Task3\\Task3\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Task3\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\Task3\\Task3\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Task3\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T19:51:09.423Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\Task3\\Task3\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Task3\\Views\\Home\\Index.cshtml",
@@ -74,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\Task3\\Task3\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Task3\\Views\\Shared\\_Layout.cshtml",
@@ -86,64 +86,64 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\Task3\\Task3\\Program.cs",
               "RelativeDocumentMoniker": "Task3\\Program.cs",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\Task3\\Task3\\Program.cs",
               "RelativeToolTip": "Task3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T17:28:00.979Z"
+              "WhenOpened": "2025-02-19T17:28:00.979Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\Task3\\Task3\\Views\\User\\Login.cshtml",
               "RelativeDocumentMoniker": "Task3\\Views\\User\\Login.cshtml",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\Task3\\Task3\\Views\\User\\Login.cshtml",
               "RelativeToolTip": "Task3\\Views\\User\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-19T17:15:11.229Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Profile.cshtml",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\Task3\\Task3\\Views\\User\\Profile.cshtml",
               "RelativeDocumentMoniker": "Task3\\Views\\User\\Profile.cshtml",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\Task3\\Task3\\Views\\User\\Profile.cshtml",
               "RelativeToolTip": "Task3\\Views\\User\\Profile.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-19T17:14:32.663Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Regester.cshtml",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\Task3\\Task3\\Views\\User\\Regester.cshtml",
               "RelativeDocumentMoniker": "Task3\\Views\\User\\Regester.cshtml",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\Task3\\Task3\\Views\\User\\Regester.cshtml",
               "RelativeToolTip": "Task3\\Views\\User\\Regester.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-19T17:14:10.557Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\Task3\\Task3\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Task3\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\MVC\\ASP.Net-Core-MVC\\Task3\\Task3\\Controllers\\UserController.cs",
               "RelativeToolTip": "Task3\\Controllers\\UserController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAwCoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T17:09:43.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T17:09:43.521Z"
             }
           ]
         }

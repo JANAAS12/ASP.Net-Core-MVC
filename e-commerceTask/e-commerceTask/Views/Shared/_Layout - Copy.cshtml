@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Task2</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Task2.styles.css" asp-append-version="true" />
+
+
+</head>
+<body style="display: flex; flex-direction: column; height: 100vh;">
+    <nav style="background-color:dimgrey; color:white; height:100%">Admin Dashboard</nav>
+    <div style="display: flex; flex: 1;">
+        <!-- Sidebar -->
+        <nav class="bg-dark text-white p-3" style="width: 250px; height: 100vh;">
+            <h3>Admin Menu</h3>
+            <ul class="nav flex-column">
+                <li class="nav-item">
+                    <a class="nav-link text-white" asp-area="" asp-controller="Admins" asp-action="Index">Users</a>
+                </li>
+                <li class="nav-item"><a class="nav-link text-white" asp-area="" asp-controller="Admins" asp-action="IndexProduct">Products</a></li>
+                
+                <li class="nav-item">
+                    <a class="nav-link text-white" asp-area="" asp-controller="Admins" asp-action="Logout">Logout</a>
+                </li>
+            </ul>
+        </nav>
+
+        <!-- Main Content -->
+        <div class="container-fluid p-4" style="flex: 1;">
+            <main role="main" class="pb-3">
+                @RenderBody()
+            </main>
+        </div>
+    </div>
+
+    <footer class="border-top footer text-muted bg-dark" style="background-color:dimgrey">
+        <div class="container">
+            <p style="color:white; text-align:center"> 2025 Admin Dashboard || All Right Reserved</p>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

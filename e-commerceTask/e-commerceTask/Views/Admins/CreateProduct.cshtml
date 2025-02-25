@@ -1,0 +1,28 @@
+﻿@model e_commerceTask.Models.Product
+@{
+    Layout = "_Layout - Copy";
+    ViewData["Title"] = "Add New Product";
+}
+
+<h2>Add New Product</h2>
+
+<form asp-action="CreateProduct" asp-controller="Admins" method="post">
+
+    <div>
+        <label>Name:</label>
+        <input type="text" asp-for="Name" required />
+    </div>
+    <div>
+        <label>Price:</label>
+        <input type="text" asp-for="Price" required />
+    </div>
+    <div>
+        <label>Description:</label>
+        <input type="text" asp-for="Description" required />
+    </div>
+    <div>
+        <label>Image:</label>
+        <input type="url" asp-for="Image" required />
+    </div>
+    <button type="submit">Add Product</button>
+</form>
